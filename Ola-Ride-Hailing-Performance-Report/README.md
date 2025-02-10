@@ -1,10 +1,7 @@
-
 # Ola Ride-Hailing Performance Report - July 2024
 
 ## Executive Summary  
 Ola’s ride-hailing performance for July shows strong revenue generation, with Prime Sedan leading both in earnings and customer preference. However, incomplete rides remain a challenge, particularly for Prime Sedan. eBike emerges as a significant revenue contributor but struggles with customer satisfaction. Payment trends indicate a heavy reliance on cash and UPI, while card usage remains low. Addressing ride cancellations and enhancing customer experience could further boost revenue and engagement.  
-
----
 
 ## Data Overview  
 
@@ -29,99 +26,119 @@ Ola’s ride-hailing performance for July shows strong revenue generation, with 
 18. **Driver_Ratings** - Ratings given by customers to drivers.  
 19. **Customer_Rating** - Ratings given by drivers to customers.  
 
----
-
-## Detailed Insights & Analysis  
-
-### 1. Overall Performance  
-![Overall Performance](./Data-Visualisation/page1-overall-insights.png)
-
-**Key Stats:**  
-- Total Bookings: 103.02K  
-- Successful Booking Value: 35M  
-- Avg Ride Distance: 14.19 km  
-- Booking Success Rate: 62.09%  
-- Top Cancellation Reasons: Customer cancellations (17.89%), Driver cancellations (10.19%), No driver found (9.83%)  
-
-**Insights:**  
-- High cancellation rates (37.91%) indicate inefficiencies in matching riders with drivers.  
-- Customer cancellations (17.89%) suggest potential pricing or availability issues.  
-- Driver cancellations (10.19%) may indicate poor incentive structures or dissatisfaction.  
-
-**Recommendations:**  
-- Optimize ride allocation algorithms to reduce "Driver Not Found" cases.  
-- Introduce surge pricing transparency to lower customer-initiated cancellations.  
-- Enhance driver incentives to reduce cancellations by drivers.  
+## Table of Contents  
+1. [Overall Performance](#1-overall-performance)  
+2. [Vehicle Type Analysis](#2-vehicle-type-analysis)  
+3. [Revenue Insights](#3-revenue-insights)  
+4. [Customer & Driver Ratings](#4-customer--driver-ratings)  
+5. [Cancellations](#5-cancellations)  
 
 ---
 
-### 2. Vehicle Type Analysis  
-**Breakdown:**  
-- Most Incomplete Rides: Prime Sedan  
-- Revenue Contribution:  
-  - Highest: Prime Sedan  
-  - Significant: eBike, Auto  
-  - Lowest: Mini  
-- Customer Preference:  
-  - Most Preferred: Prime Sedan  
-  - Least Preferred: Mini  
+## 1. Overall Performance  
+![Overall Performance](./Data-Visualisation/page1-overall-insights.png)  
 
-**Insights:**  
-- Prime Sedan dominates demand but struggles with incomplete rides.  
-- eBike and Auto are emerging as viable alternatives but need further optimization.  
-- Mini is underperforming in both revenue and demand, suggesting fleet reconsideration.  
+### Key Metrics  
+- **Total Rides:** 105K  
+- **Completed Rides:** 75K  
+- **Cancelled Rides:** 28.93K  
+- **Average Ride Distance:** 5.6 km  
+- **Total Revenue:** $1.2M  
 
-**Recommendations:**  
-- Increase Prime Sedan availability to meet demand without high cancellation rates.  
-- Enhance driver benefits for eBike and Auto to sustain growth.  
-- Evaluate Mini’s future viability and consider reallocating resources.  
+### Insights  
+- **High ride volume** but notable cancellations.  
+- **Revenue growth is steady**, indicating demand stability.  
+- **Majority of rides are short distances**, suggesting urban dominance.  
 
----
-
-### 3. Revenue Analysis  
-**Key Figures:**  
-- Total Revenue: 57M  
-- Avg Booking Revenue: 548.75  
-- Revenue by Vehicle Type:  
-  - Highest: Prime Sedan  
-  - Significant: eBike  
-  - Lowest: Prime SUV  
-- Revenue by Payment Method:  
-  - Cash (20M) > UPI > Cards (minimal)  
-
-**Insights:**  
-- Heavy reliance on cash (20M) poses operational challenges.  
-- Prime Sedan is the backbone of revenue but needs better ride completion.  
-- Cards are underutilized, indicating potential for digital payment growth.  
-
-**Recommendations:**  
-- Promote digital payments via discounts to reduce cash dependency.  
-- Improve Prime Sedan ride completion to maximize revenue potential.  
-- Explore flexible pricing for Prime SUV to improve its contribution.  
+### Recommendations  
+- Reduce cancellations through better driver incentives.  
+- Optimize ride pricing for short-distance trips.  
+- Improve customer experience for repeat bookings.  
 
 ---
 
-### 4. Ratings & Customer Feedback  
-**Key Ratings:**  
-- Best Customer Rating: Prime Plus  
-- Worst Customer Rating: eBike  
-- Best Driver Rating: eBike  
-- Worst Driver Rating: Bike  
-- Rating Fluctuations: 3.98 - 4.01  
+## 2. Vehicle Type Analysis  
+![Vehicle Type Insights](./Data-Visualisation/page2-vehicle-type-insights.png)  
 
-**Insights:**  
-- eBike has a driver satisfaction advantage but poor customer ratings.  
-- Prime Plus is the highest-rated service, indicating strong brand loyalty.  
-- Bike service may need better driver training to improve ratings.  
+### Key Metrics  
+- **Most Popular Vehicle:** Sedan  
+- **Highest Revenue Vehicle:** Prime Plus  
+- **Least Used Vehicle:** eBike  
 
-**Recommendations:**  
-- Enhance eBike customer experience with improved vehicle quality and safety measures.  
-- Use Prime Plus best practices across other segments to standardize excellence.  
-- Introduce targeted training for Bike drivers to improve ratings.  
+### Insights  
+- **Sedans dominate ride volume**, while **Prime Plus contributes most revenue.**  
+- **Bike rides have inconsistent demand.**  
+
+### Recommendations  
+- Expand Sedan fleet to meet high demand.  
+- Promote Prime Plus with loyalty programs to maximize revenue.  
+- Improve marketing for eBike to drive adoption.  
 
 ---
 
-## Summary of Insights & Recommendations  
+## 3. Revenue Insights  
+![Revenue Insights](./Data-Visualisation/page3-revenue-insights.png)  
+
+### Key Metrics  
+- **Total Revenue:** $1.2M  
+- **Top Earning Category:** Prime Plus  
+- **Peak Revenue Hour:** 6 PM – 9 PM  
+
+### Insights  
+- **Peak hours drive the highest revenue**, emphasizing demand trends.  
+- **Prime Plus generates the most revenue, justifying premium pricing.**  
+
+### Recommendations  
+- Introduce surge pricing during peak hours for maximum profitability.  
+- Optimize driver availability for revenue-heavy time slots.  
+
+---
+
+## 4. Customer & Driver Ratings  
+![Ratings Insights](./Data-Visualisation/page5-ratings-insights.png)  
+
+### Key Ratings  
+- **Best Customer Rating:** Prime Plus  
+- **Worst Customer Rating:** eBike  
+- **Best Driver Rating:** eBike  
+- **Worst Driver Rating:** Bike  
+- **Rating Fluctuations:** 3.98 - 4.01  
+
+### Insights  
+- **eBike has high driver ratings but poor customer satisfaction.**  
+- **Prime Plus is the highest-rated service, indicating strong brand loyalty.**  
+- **Bike service has the worst driver ratings, signaling training gaps.**  
+
+### Recommendations  
+- Improve eBike customer experience through vehicle quality and service upgrades.  
+- Use Prime Plus best practices across other segments.  
+- Implement targeted training for Bike drivers to improve ratings.  
+
+---
+
+## 5. Cancellations  
+![Cancellation Insights](./Data-Visualisation/page4-cancellation-insights.png)  
+
+### Key Cancellation Metrics  
+- **Total Customer Cancellations:** 10.50K  
+- **Total Driver Cancellations:** 18.43K  
+- **Cancellation Rate:** 17.89%  
+
+### Insights  
+- **Driver cancellations (18.43K) exceed customer cancellations (10.50K),** indicating potential issues with driver availability or preferences.  
+- **Top customer cancellation reasons:** Driver not moving towards pickup, change of plans, and incorrect address.  
+- **Top driver cancellation reasons:** Personal & car-related issues, customer-related issues, and sickness concerns.  
+- **Higher driver cancellations could impact customer experience and retention.**  
+- **Cancellation rate of 17.89% suggests inefficiencies in ride fulfillment.**  
+
+### Recommendations  
+- Improve driver allocation algorithms to reduce unnecessary cancellations.  
+- Introduce incentives for drivers to complete more rides and discourage frequent cancellations.  
+- Address common customer complaints, such as driver delays, through better real-time tracking and communication.  
+- Implement penalty systems for frequent cancellations by both drivers and customers.  
+- Enhance customer education on cancellation policies to reduce avoidable cancellations.
+
+  ## Summary of Insights & Recommendations  
 
 ### Insights  
 1. High cancellation rates (37.91%) are impacting revenue.  
@@ -133,4 +150,8 @@ Ola’s ride-hailing performance for July shows strong revenue generation, with 
 1. Optimize ride matching algorithms to reduce cancellations.  
 2. Expand digital payment incentives to lower cash dependency.  
 3. Improve Prime Sedan availability and reduce driver-side cancellations.  
-4. Enhance eBike service experience to boost customer satisfaction.  
+4. Enhance eBike service experience to boost customer satisfaction.
+
+
+
+
