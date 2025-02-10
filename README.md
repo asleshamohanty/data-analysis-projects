@@ -1,4 +1,4 @@
-# Ola Ride-Hailing Performance Report - July  
+# Ola Ride-Hailing Performance Report - July 2024
 
 ## Executive Summary  
 Ola’s ride-hailing performance for July shows strong revenue generation, with Prime Sedan leading both in earnings and customer preference. However, incomplete rides remain a challenge, particularly for Prime Sedan. eBike emerges as a significant revenue contributor but struggles with customer satisfaction. Payment trends indicate a heavy reliance on cash and UPI, while card usage remains low. Addressing ride cancellations and enhancing customer experience could further boost revenue and engagement.  
