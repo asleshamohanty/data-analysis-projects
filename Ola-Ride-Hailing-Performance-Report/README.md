@@ -146,11 +146,35 @@ Ola’s ride-hailing performance for July shows strong revenue generation, with 
 3. Cash payments (20M) outweigh digital transactions, creating inefficiencies.  
 4. Customer ratings fluctuate, with eBike struggling the most.  
 
-### Actionable Recommendations  
+### Recommendations  
 1. Optimize ride matching algorithms to reduce cancellations.  
 2. Expand digital payment incentives to lower cash dependency.  
 3. Improve Prime Sedan availability and reduce driver-side cancellations.  
 4. Enhance eBike service experience to boost customer satisfaction.
+
+# Questions for Stakeholders  
+- What are the key goals for this ride-hailing service in the next 6-12 months?  
+- Are we focusing more on increasing ride volume, revenue, or customer retention?   
+- What are the most common customer complaints we need to address?  
+- What challenges do drivers face that lead to high cancellation rates?  
+- Do we have insights into which vehicle categories generate the highest profit margins?  
+- Are there penalties or incentives for cancellations on either side (drivers/customers)?  
+- How do cancellations impact overall customer satisfaction?  
+- What strategies have worked for competitors to reduce cancellations and improve ratings?  
+
+## Key Performance Indicators (KPIs)
+
+The following KPIs are tracked to evaluate the ride-hailing service's performance:
+
+1. **Cancellation Rate** – Percentage of rides canceled by customers and drivers.
+2. **Average Customer Rating** – Overall rating given by customers.
+3. **Driver Rating** – Average rating given to drivers.
+4. **Booking Completion Rate** – Percentage of bookings successfully completed.
+5. **Revenue per Ride** – Average earnings per completed ride.
+6. **Ride Distance Trends** – Average trip distance per vehicle type.
+
+These KPIs help in assessing customer satisfaction, driver performance, and operational efficiency.
+
 
 
 
