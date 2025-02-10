@@ -34,7 +34,7 @@ Ola’s ride-hailing performance for July shows strong revenue generation, with 
 ## Detailed Insights & Analysis  
 
 ### 1. Overall Performance  
-![Overall Performance(https://github.com/asleshamohanty/data-analysis-projects/Ola-Ride-Hailing-Performance-Report/Data-Visualisation/page1-overall-insights.png)
+![Overall Performance(Data-Visualisation/page1-overall-insights.png)
 
 **Key Stats:**  
 - Total Bookings: 103.02K  
